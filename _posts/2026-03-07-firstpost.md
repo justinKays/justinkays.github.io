@@ -8,7 +8,7 @@ tags: [tiger,haha]
 #Welcome
 
 #Photo
-![alt text](/assets/lib/barkhan.JPG)
+![alt text](/assets/img/barkhan.JPG)
 
 ## Two
 
